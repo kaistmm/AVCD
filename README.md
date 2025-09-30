@@ -47,7 +47,7 @@ Follow the [VideoLLaMA2 repository](https://github.com/DAMO-NLP-SG/VideoLLaMA2) 
 
 ```bash
 git clone https://github.com/kaistmm/AVCD.git
-cd Video-LLaMA2-AVCD
+cd AVCD
 ```
 
 ### 4. Inference
@@ -86,4 +86,4 @@ python videollama2/eval/eval_gpt.py --pred-path <path_to_preds>.json --output-di
   journal={arXiv preprint arXiv:2505.20862},
   year={2025}
 }
-```# AVCD
+```
