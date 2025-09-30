@@ -88,10 +88,11 @@ python videollama2/eval/eval_gpt.py --pred-path <path_to_preds>.json --output-di
 
 ## 📝 Citation
 ```bibtex
-@article{jung2025avcd,
-  title={AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding},
-  author={Jung, Chaeyoung and Jang, Youngjoon and Chung, Joon Son},
-  journal={arXiv preprint arXiv:2505.20862},
-  year={2025}
+@inproceedings{jung2025avcd,
+  author    = {Jung, Chaeyoung and Jang, Youngjoon and Chung, Joon Son},
+  title     = {AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding},
+  booktitle = {NeurIPS},
+  year      = {2025}
 }
+
 ```
