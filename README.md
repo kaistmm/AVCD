@@ -6,12 +6,14 @@ This is the official repository for **[Audio-Visual Contrastive Decoding (AVCD)]
 ---
 
 ## 🚀 Updates
-- ✅ AVCD code released with forward-loop decoding  
+- ✅ AVCD code released !
 - ✅ Accepted at **NeurIPS 2025**  
 
 ---
 
-![Overview of AVCD](AVCD.pdf)
+![Overview of AVCD](AVCD.png)
+
+---
 
 ## 📖 Overview
 - Reformulates conventional CD (Contrastive Decoding) from single-instance (e.g., video–text) to **three-modality interactions**  
