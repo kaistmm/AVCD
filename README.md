@@ -62,7 +62,7 @@ AVCD
 python videollama2/inference/inference_AVH_val.py --use-AVCD True
 ```
 
-### 4. Evaluation
+### 5. Evaluation
 This is for Accuracy (AVH1, 2, 3)
 ```bash
 python videollama2/eval/eval_acc.py --pred-path <path_to_preds>.json
