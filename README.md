@@ -64,7 +64,7 @@ python videollama2/inference/inference_AVH_val.py --use-AVCD True
 ```
 
 ### 6. Evaluation
-The inference step generates a JSON file that includes the question, the model’s answer, and the prediction.  
+The inference step generates a JSON file that includes the question, the answer, and the prediction.  
 During evaluation, these JSON files can be used to directly measure accuracy or compute scores using GPT-based evaluation.
 
 **Accuracy (AVH1–3)**  
