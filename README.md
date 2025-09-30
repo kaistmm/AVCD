@@ -30,14 +30,18 @@ Follow the [VideoLLaMA2 repository](https://github.com/DAMO-NLP-SG/VideoLLaMA2) 
 
 ### 2. Datasets
 
-AVHBench → [GitHub](https://github.com/kaist-ami/AVHBench)
-Music-AVQA → [GitHub](https://github.com/GeWu-Lab/MUSIC-AVQA)
+| Dataset   | Link |
+|-----------|------|
+| AVHBench  | [GitHub](https://github.com/kaist-ami/AVHBench) |
+| Music-AVQA| [GitHub](https://github.com/GeWu-Lab/MUSIC-AVQA) |
 
-Expected paths:
+**Expected paths:**
 
-JSON configs → json/
-Inference scripts → videollama2/inference/
-Evaluation scripts → videollama2/eval/
+| Purpose              | Path |
+|----------------------|--------------------------|
+| JSON configs         | `json/` |
+| Inference scripts    | `videollama2/inference/` |
+| Evaluation scripts   | `videollama2/eval/` |
 
 ### 3. Usage
 
