@@ -28,14 +28,16 @@ This is the official repository for **[Audio-Visual Contrastive Decoding (AVCD)]
 Follow the [VideoLLaMA2 repository](https://github.com/DAMO-NLP-SG/VideoLLaMA2) setup guide (**audio-visual branch**):
 
 
-### 2. Datasets
+### 2. Datasets 
+We use the **AVHBench** and **MUSIC-AVQA** datasets for AVCD. The repositories are available below:
 
 | Dataset   | Link |
 |-----------|------|
 | AVHBench  | [GitHub](https://github.com/kaist-ami/AVHBench) |
-| Music-AVQA| [GitHub](https://github.com/GeWu-Lab/MUSIC-AVQA) |
+| MUSIC-AVQA| [GitHub](https://github.com/GeWu-Lab/MUSIC-AVQA) |
 
-**Expected paths:**
+### 3. Repository layout
+The data and scripts for running inference and evaluation are organized as follows:
 
 | Purpose              | Path |
 |----------------------|--------------------------|
@@ -43,37 +45,43 @@ Follow the [VideoLLaMA2 repository](https://github.com/DAMO-NLP-SG/VideoLLaMA2) 
 | Inference scripts    | `videollama2/inference/` |
 | Evaluation scripts   | `videollama2/eval/` |
 
-### 3. Usage
+### 4. Usage
 
 ```bash
 git clone https://github.com/kaistmm/AVCD.git
 cd AVCD
 ```
 
-### 4. Inference
-
-Original model
+### 5. Inference
+This stage saves the generated answers from inference. An example command for running inference with the original model is shown below:
 ```bash
 python videollama2/inference/inference_AVH_val.py
 ```
 
-AVCD
+To enable AVCD, add the `--use-AVCD` argument:
 ```bash
 python videollama2/inference/inference_AVH_val.py --use-AVCD True
 ```
 
-### 5. Evaluation
-This is for Accuracy (AVH1, 2, 3)
+### 6. Evaluation
+The inference step generates a JSON file that includes the question, the model’s answer, and the prediction.  
+During evaluation, these JSON files can be used to directly measure accuracy or compute scores using GPT-based evaluation.
+
+**Accuracy (AVH1–3)**  
+- **AVH1**: Audio-driven Video Hallucination  
+- **AVH2**: Video-driven Audio Hallucination  
+- **AVH3**: AV Matching  
 ```bash
 python videollama2/eval/eval_acc.py --pred-path <path_to_preds>.json
 ```
 
-This is for Captioning (AVH4)
+**Captioning Score (AVH4)**  
+- **AVH4**: AV Captioning  
 ```bash
 python videollama2/eval/eval_caption.py --pred-path <path_to_preds>.json --output-dir <dir>
 ```
 
-This is for open-ended QA(Music-AVQA)
+**Open-ended QA (MUSIC-AVQA)**
 ```bash
 python videollama2/eval/eval_gpt.py --pred-path <path_to_preds>.json --output-dir <dir>
 ```
