@@ -1,8 +1,8 @@
 # AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding
 
-This is the official repository for **Audio-Visual Contrastive Decoding (AVCD)**, a simple, training-free method for mitigating hallucinations in AV-LLMs during decoding **without relying on external tools**.
+This is the official repository for **[Audio-Visual Contrastive Decoding (AVCD)](https://arxiv.org/abs/2505.20862)**, a simple, training-free method for mitigating hallucinations in AV-LLMs during decoding **without relying on external tools**.
 
-[arxiv](https://arxiv.org/abs/2505.20862)
+
 ---
 
 ## 🚀 Updates
