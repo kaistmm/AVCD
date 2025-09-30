@@ -67,16 +67,14 @@ python videollama2/inference/inference_AVH_val.py --use-AVCD True
 The inference step generates a JSON file that includes the question, the answer, and the prediction.  
 During evaluation, these JSON files can be used to directly measure accuracy or compute scores using GPT-based evaluation.
 
-**Accuracy (AVH1–3)**  
-- **AVH1**: Audio-driven Video Hallucination  
-- **AVH2**: Video-driven Audio Hallucination  
-- **AVH3**: AV Matching  
+**Accuracy (AVH)**  
+- **AVH**: Audio-driven Video Hallucination, Video-driven Audio Hallucination, AV Matching  
 ```bash
 python videollama2/eval/eval_acc.py --pred-path <path_to_preds>.json
 ```
 
-**Captioning Score (AVH4)**  
-- **AVH4**: AV Captioning  
+**Captioning Score (AVH_cap)**  
+- **AVH_cap**: AV Captioning  
 ```bash
 python videollama2/eval/eval_caption.py --pred-path <path_to_preds>.json --output-dir <dir>
 ```

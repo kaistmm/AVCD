@@ -14,8 +14,8 @@ from videollama2 import model_init, mm_infer
 from videollama2.utils import disable_torch_init
 import torch
 
-from threadpoolctl import threadpool_limits
 
+from threadpoolctl import threadpool_limits
 
 # NOTE: Ignore TypedStorage warning, which refers to this link~(https://github.com/pytorch/pytorch/issues/97207#issuecomment-1494781560)
 warnings.filterwarnings('ignore', category=UserWarning, message='TypedStorage is deprecated')
@@ -32,29 +32,30 @@ def get_chunk(lst, n, k):
     return chunks[k]
 
 
-class AVH2(Dataset):
+class AVH_cap(Dataset):
 
     def __init__(self, questions, processor, processor2):
         self.questions = questions
         self.processor = processor
         self.processor2 = processor2
-       
 
     def __len__(self):
         return len(self.questions)
     
     def __getitem__(self, idx):
         sample = self.questions[idx]
-        text = sample['text']+" Answer yes or no." 
-      
 
-        video_path =  "/mnt/lynx1/datasets/AVHBench/videos/"+sample["video_id"]+".mp4"
+        text = sample['text']
+
+        video_path = "/mnt/lynx1/datasets/AVHBench/videos/" +sample["video_id"]+".mp4"
         question = text #sample["question_content"]
+
         answer = sample["label"]
 
         print("question", question)
-        audio_video_dict = self.processor(video_path, va=True)
+    
 
+        audio_video_dict = self.processor(video_path, va=True)
 
         return {
             'audio_video':  audio_video_dict,
@@ -63,6 +64,7 @@ class AVH2(Dataset):
             'question_id': video_path.split("/")[-1], #question_id,
             'answer':      answer,
         }
+
 
 def collate_fn(batch):
     aud_vid  = [x['audio_video'] for x in batch]
@@ -83,7 +85,7 @@ def run_inference(args):
     gt_questions = get_chunk(gt_questions, args.num_chunks, args.chunk_idx)
 
     assert args.batch_size == 1, "Batch size must be 1 for inference"
-    dataset = AVH2(gt_questions, processor['video'], processor["audio"])
+    dataset = AVH_cap(gt_questions, processor['video'], processor["audio"])
     dataloader = DataLoader(dataset, shuffle=False, batch_size=args.batch_size, num_workers=args.num_workers, collate_fn=collate_fn)
 
     answer_file = os.path.join(args.output_file)
@@ -97,6 +99,7 @@ def run_inference(args):
         question_id  = video_names[0] #question_ids[0]
         answer       = answers[0]
        
+
         # try:
         output = mm_infer(
                 audio_video_tensor,
@@ -120,18 +123,17 @@ if __name__ == "__main__":
 
     parser.add_argument('--model-path', help='',default="/mnt/bear3/users/cyong/VideoLLaMA2.1-7B-AV")
     parser.add_argument('--video-folder', help='Directory containing video files.', default="/mnt/bear3/users/cyong/AVHBench/data/AVHBench_v0/video")
-    parser.add_argument('--question-file', help='Path to the ground truth file containing question.', default="./json/Video-driven_Audio_Hallucination.json")
+    parser.add_argument('--question-file', help='Path to the ground truth file containing question.', default="./json/AV_Captioning.json")
     parser.add_argument('--answer-file', help='Path to the ground truth file containing answers.', required=False)
-    parser.add_argument('--output-file', help='Directory to save the model results JSON.', default="./AVCD_AVH2.json") #last2 
+    parser.add_argument('--output-file', help='Directory to save the model results JSON.', default="./AVCD_AVH_cap.json") #last2
     parser.add_argument("--use-AVCD", type=str, default=False)
     parser.add_argument("--num-chunks", type=int, default=1)
     parser.add_argument("--chunk-idx", type=int, default=0)
     parser.add_argument("--device", type=str, required=False, default='cuda:0')
     parser.add_argument("--batch-size", type=int, required=False, default=1)
     parser.add_argument("--num-workers", type=int, required=False, default=0)
-    parser.add_argument("--dataset", type=str, default="AVH2")
+    parser.add_argument("--dataset", type=str, default="AVH_cap")
     args = parser.parse_args()
 
     with threadpool_limits(limits=4):
         run_inference(args)
-

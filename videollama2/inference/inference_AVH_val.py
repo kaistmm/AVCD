@@ -122,7 +122,7 @@ if __name__ == "__main__":
 
     parser.add_argument('--model-path', help='',default="/mnt/bear3/users/cyong/VideoLLaMA2.1-7B-AV")
     parser.add_argument('--video-folder', help='Directory containing video files.', default="/mnt/bear3/users/cyong/AVHBench/data/AVHBench_v0/video")
-    parser.add_argument('--question-file', help='Path to the ground truth file containing question.', default="./json/validation.json")
+    parser.add_argument('--question-file', help='Path to the ground truth file containing question.', default="./json/AVH_val.json")
     parser.add_argument('--output-file', help='Directory to save the model results JSON.', default="./AVH_validation.json") #last2
     parser.add_argument("--use-AVCD", type=str, default=False)
     parser.add_argument("--num-chunks", type=int, default=1)
