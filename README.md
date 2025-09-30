@@ -39,7 +39,7 @@ Follow the [VideoLLaMA2 repository](https://github.com/DAMO-NLP-SG/VideoLLaMA2) 
 
 | Purpose              | Path |
 |----------------------|--------------------------|
-| JSON configs         | `json/` |
+| Data QA files         | `json/` |
 | Inference scripts    | `videollama2/inference/` |
 | Evaluation scripts   | `videollama2/eval/` |
 

@@ -1,0 +1,1232 @@
+[
+    {
+        "video_id": "00006",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the woman making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00006",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the microphone making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00006",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the podium making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00006",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the woman visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00006",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the crowd visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00006",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00006_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00159",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the pigeons making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00159",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the cage making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00159",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the pigeons visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00159",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the rooster visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00159",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00159_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00175",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the child making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00175",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the small house making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00175",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the toys making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00175",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the child visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00175",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00175",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the woman visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00175",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00175_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00528",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the motorbike making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00528",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the car making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00528",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the tree making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00528",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the motorbike visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00528",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00528",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00528_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00732",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00732",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the wood fence making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00732",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the car making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00732",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00732",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the birds visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00732",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00732_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00641",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the goat making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00641",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the fence making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00641",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the grass making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00641",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the goat visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00641",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00641",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the bird visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00641",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00641_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00669",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the baby making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00669",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the chair making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00669",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the baby visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00669",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the woman visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00669",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00669_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00765",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the grill making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00765",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00765",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the campfire making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00765",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the tire making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00765",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the grill visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00765",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00765",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the music source visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00765",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00765_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01256",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the train making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01256",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the forest making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01256",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the crowd making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01256",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the train visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01256",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the wind visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01256",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01256_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00251",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the bees making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00251",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the forest making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00251",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the branches making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00251",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the bees visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00251",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00251",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00251_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00970",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the motorcycle engine making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00970",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the tree making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00970",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man in motorcycle making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00970",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the motorcycle engine visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00970",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man talking visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00970",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00970_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00191",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the sleeping man making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00191",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the couch making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00191",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the sleeping man visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00191",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the person walking visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00191",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00500",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the baby making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00500",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the chair making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00500",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the wooden chair making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00500",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the baby visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00500",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the woman visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00500",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00500_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01348",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the car making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01348",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the tree making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01348",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the house making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01348",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the car visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01348",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01348",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01348_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01358",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the frying pan making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01358",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the floor making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01358",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the frying pan visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01358",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01358",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01358_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01352",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the dog making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01352",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the window making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01352",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the floor making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01352",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the dog visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01352",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the person visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01352",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01352_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01460",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the woman making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01460",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the stage making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01460",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the woman visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01460",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the audience visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01460",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01460_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "00348",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00348",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the crowd making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00348",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the screen making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00348",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the stage making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "00348",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00348",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the crowd visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00348",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the bell visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00348",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the cat visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "00348",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "00348_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01574",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the crowd making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01574",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the wall making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01574",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the crowd visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01574",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the talking woman visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01574",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01574_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01476",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the police car making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01476",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the bridge making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01476",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the police car visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01476",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the helicopter visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01476",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the men visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01476",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01476_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01676",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the puppies making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01676",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the big dog making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01676",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the floor making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01676",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the puppies visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01676",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the woman visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01676",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01676_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01480",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the fireworks making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01480",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the lights making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01480",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the text making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01480",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the fireworks visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01480",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the music source visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01480",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01480_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01726",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the water making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01726",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01726",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the puppy making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01726",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the water visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01726",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the talking woman visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01726",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01726_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "02030",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the truck making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02030",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the building making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02030",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the truck visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02030",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the talking man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "02030",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02030_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "02180",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02180",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the lake making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02180",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the mountains making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02180",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02180",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the bell visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "02180",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02180_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "02124",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the fire making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02124",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the smoke making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02124",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the fire visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02124",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "02124",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02124_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "02010",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the ball making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02010",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the racket making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02010",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02010",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the ball visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02010",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the music source visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "02010",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02010_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "01782",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the sheep making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01782",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the dog making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "01782",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the sheep visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01782",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the person visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "01782",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "01782_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "02198",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the fowls making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02198",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the tree making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02198",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the fowls visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02198",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "02198",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02198_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    },
+    {
+        "video_id": "02302",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the man making sound in the audio?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02302",
+        "task": "Video-driven Audio Hallucination",
+        "text": "Is the lion making sound in the audio?",
+        "label": "No"
+    },
+    {
+        "video_id": "02302",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the man visible in the video?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02302",
+        "task": "Audio-driven Video Hallucination",
+        "text": "Is the water visible in the video?",
+        "label": "No"
+    },
+    {
+        "video_id": "02302",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "Yes"
+    },
+    {
+        "video_id": "02302_swap",
+        "task": "AV Matching",
+        "text": "Are the contexts of audio and visual content matching?",
+        "label": "No"
+    }
+]

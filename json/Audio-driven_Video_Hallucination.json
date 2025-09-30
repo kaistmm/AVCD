@@ -1,0 +1,6818 @@
+[
+  {
+    "video_id": "02060",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02060",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00938",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the mechanical device visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01517",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00019",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00019",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00019",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00328",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00554",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the hood visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00554",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00554",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02274",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02274",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00235",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02167",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02167",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the thunder visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01892",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the characters visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01892",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01726",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01726",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00928",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the jet engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01108",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the compressed air visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01108",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00947",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00933",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the insects visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00933",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00373",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man talking visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00373",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person walking visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02237",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02237",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02173",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01077",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cup visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01077",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00602",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the model train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00602",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00196",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01234",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the keyboard visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01234",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the None visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01501",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01501",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02301",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the power tool visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01647",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01647",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the truck visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00563",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00773",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00175",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00175",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00175",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00823",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the instruments visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01197",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00232",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bells visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00375",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00375",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the duck visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00375",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the glass visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00375",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00367",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sparks visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01757",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00324",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00324",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00308",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the saxophones visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00664",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00469",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00469",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00156",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the old man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00512",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gun visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00512",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person in the game visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02034",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking women visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02241",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01441",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the guitar visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01441",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02072",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fan visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02072",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01291",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01871",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00293",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the shower head visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00293",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00293",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00218",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the coin visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01579",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01579",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frying food visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02281",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00765",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the grill visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00765",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00765",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01771",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the air ventilation visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01190",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the instrument visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00114",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the shoes visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02256",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01497",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01497",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the glass visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01228",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01738",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00702",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01664",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sea waves visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01664",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00191",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sleeping man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00191",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person walking visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01285",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01285",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01519",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00515",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00515",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00515",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01418",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01979",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic container visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01979",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the glass visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00107",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the girls visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01422",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01422",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00006",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00006",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02305",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01653",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01653",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01135",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01424",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00141",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the aircraft engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00141",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02249",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01574",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01574",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00636",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the microwave visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00636",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00636",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the main visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00127",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00127",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01520",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the zipper visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01520",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01478",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00793",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00793",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man in costume visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00793",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00899",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00468",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the instrument visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00943",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vacuum cleaner visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00767",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00721",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00721",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01362",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01263",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00632",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00632",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the faucet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00632",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00632",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00764",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00119",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00518",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02055",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the waterfall visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00647",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the church bells visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00181",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the black-and-white TV visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00181",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the white balls visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00159",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pigeons visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00159",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rooster visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00414",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00414",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00653",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the spoon visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00653",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pan visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00653",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00653",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01513",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00981",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00981",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the door visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00567",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the animal visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00628",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the explosion source visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00628",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the electronic device visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00628",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00650",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00650",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the propeller visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01297",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01342",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pigeons visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01342",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00973",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the guitar visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00215",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00215",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the goat visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00427",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the group of people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00427",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the musical instruments visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01358",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frying pan visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01358",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02198",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fowls visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02198",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00482",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the doll Santa visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00207",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00355",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the animal visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00355",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00130",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the chainsaw visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01633",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the telephone visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00212",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01094",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01094",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00541",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00473",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the emergency car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00473",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01081",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01081",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the door visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01545",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01817",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01817",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00239",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01125",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the puppy visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01328",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the electric appliance visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01328",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02202",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02202",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01813",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cat visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02299",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02085",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00523",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00523",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00523",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02289",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00220",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00220",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01047",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the instrument visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00348",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00348",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00348",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00348",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cat visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01059",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01751",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01782",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sheep visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01782",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02219",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01384",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cash register visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01384",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02233",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02233",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00977",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the female singer visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00048",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00048",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the kitten visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00876",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the mower visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01673",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01673",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the food visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01025",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01025",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00911",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00535",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02258",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02258",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the laughing person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01707",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02070",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02070",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01256",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01256",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02297",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the flapping bird visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01538",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01922",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01922",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00471",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bus visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00471",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00932",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the keyboard visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00932",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man in red visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00640",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cat visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01984",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01348",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01348",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00263",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00263",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the aircraft visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00263",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02142",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the aircraft visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02142",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the siren visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02095",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the snoring person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00985",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man laughing visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00985",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01392",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01428",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01428",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01875",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the snoring dog visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00999",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00738",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00738",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00103",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the another woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00103",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the goat visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01505",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01505",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00539",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00826",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00278",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01168",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00756",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the typhoon fan visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00251",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00251",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00821",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the boy visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00619",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00619",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the stream of water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01406",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01977",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01676",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the puppies visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01676",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02022",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02047",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01102",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01102",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01445",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02227",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drill visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00509",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00509",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00509",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01436",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02001",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the emergency siren visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00641",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the goat visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00641",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00641",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00247",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00296",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire truck visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01106",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the distant machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01106",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ducks visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00595",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01991",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02010",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ball visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02010",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00018",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the leaf blower visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00164",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00502",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pig visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00502",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00321",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the animal visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00321",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01303",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00844",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the typewriter visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01918",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02139",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the police car visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00233",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00233",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the traffic visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00258",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bamboo tube visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00336",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00336",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01096",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01096",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01524",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01524",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02197",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the stream visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02197",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01753",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00463",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the little girls visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00463",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01841",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cars visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01656",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the chainsaw visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01656",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02309",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02309",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the singing man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00881",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00881",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00881",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01005",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01005",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02118",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the beak visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02118",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01114",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01114",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01592",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01592",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01937",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plane visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01218",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the girl visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01218",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the male judge visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01615",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00332",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00332",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01099",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01099",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01896",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01896",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01944",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the door handle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01944",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00587",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00587",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drill visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00807",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00807",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bells visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00683",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cart visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00683",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the beeping device visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00785",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00661",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ducks visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00661",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01965",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02212",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00292",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01958",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the hands visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01958",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01200",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the running machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00305",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00305",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the microphone visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00305",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the musical instrument visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01345",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the goat visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00221",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00046",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00464",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bus engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00464",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00023",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01687",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01041",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00989",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic bag visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00989",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02076",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the hammer visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02076",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the spades visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02076",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01127",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01154",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01154",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the audience visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01856",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the turkeys visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01856",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01233",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorboat engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01233",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic camera visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01233",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00845",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sponge visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00845",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00788",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drum visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01900",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the hairdryer visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01900",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01900",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01566",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00450",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01158",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the animated penguin visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01275",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the skillet visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01638",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fan visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01638",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01208",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00403",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00403",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02161",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cup visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02161",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01480",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fireworks visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01480",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00486",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the windmill visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01701",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00352",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horses visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00352",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00352",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00926",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the musical instruments visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00117",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the compressed air visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00117",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the aluminum cans visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00117",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01489",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sports car visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00937",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person (farting) visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01049",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00964",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00964",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00219",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00219",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the spray can visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00168",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the truck visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00395",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00395",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the thunder visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00395",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00415",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00415",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01097",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01097",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cat visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00584",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00584",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01083",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vacuum visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01703",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01703",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01323",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00599",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00147",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00147",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00096",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00096",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wood visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00096",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00582",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01797",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01797",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01873",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00193",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00862",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drill visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00862",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00799",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the infant visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00799",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00050",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01704",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycles visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01704",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00272",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dogs visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01034",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01456",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wiper visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01456",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01558",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02124",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02124",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00867",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the faucet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00867",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02310",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02310",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02322",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bicycles visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02322",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02322",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00422",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the river stream visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00422",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00422",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00342",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the truck visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00342",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the emergency vehicle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00200",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the instruments visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00133",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drone visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00133",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01265",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01799",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01799",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the female visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02193",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00791",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00791",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01533",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00904",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic object visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00904",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the audio equipment visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00347",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00970",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00970",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man talking visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01148",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01148",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the insects visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01878",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01878",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00194",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00194",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gun visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00572",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bottle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00572",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the laughing man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00550",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00550",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the infant visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00146",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01821",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01821",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the laughing child visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00528",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorbike visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00528",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01057",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00240",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00240",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00678",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car horns visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00848",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00001",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00150",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01472",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bus visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01472",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01460",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01460",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the audience visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02069",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00511",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wood visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00511",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01605",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02111",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01546",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01338",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the door glass visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01338",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gun visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01338",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00969",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00969",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01643",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind turbine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02325",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the jackhammer visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01008",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire engines visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00021",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cello visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01336",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the mice visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01443",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01443",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01476",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the police car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01476",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01476",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01925",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01925",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02187",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00256",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00891",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00093",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clarinet visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00652",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the hammer visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01880",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01113",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the zipper visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01609",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01781",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01649",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00953",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorbike engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00953",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01249",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the old fashioned telephone visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00254",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00254",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the guitar visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02175",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01010",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02112",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02112",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00372",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00372",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00372",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the source of white noise visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01042",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01042",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02315",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the flapping birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02315",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cooing pigeons visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00500",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00500",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00131",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00131",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00304",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00304",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01973",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the steam train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01973",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the metal levers visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00874",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00874",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the board visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01375",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00179",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the kayak visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00179",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00179",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the microphone visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00179",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00913",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00913",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01350",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01350",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00960",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02238",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01564",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01934",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01895",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00514",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gulls visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01980",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01330",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the blender visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01330",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00742",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00742",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02327",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02129",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00174",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01156",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02153",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00063",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the violin visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01259",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the typewriter visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00861",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00331",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01645",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00431",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01636",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the glass door visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01636",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01718",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01718",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00487",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the source of explosion visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01712",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the animal visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00824",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dogs visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00824",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00732",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00732",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01224",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man (playing harmonica and guitar) visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02243",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the race car visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01721",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01721",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the whistling man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00455",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the church bells visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01352",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01352",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01335",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02223",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the applauding crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02223",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00994",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00606",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the light beams visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01768",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fireworks visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01768",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01675",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01735",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ducks visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01735",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01309",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the airplane visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02225",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00816",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01382",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00081",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02221",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02210",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02210",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the laughing person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01174",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the guitar visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01174",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01992",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00094",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00094",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the police siren visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01221",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01221",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the camera visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00681",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frogs visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00681",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01241",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gun visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01458",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01458",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00109",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cello visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02302",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02302",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01131",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00708",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plane visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02188",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02188",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01361",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01772",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01772",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02244",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cat visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02244",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01528",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01528",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00334",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00334",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the young girls visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00974",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00974",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01725",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01764",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horn visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01975",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00478",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the xylophone visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01982",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the floor visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01982",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the glass visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02052",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01931",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01069",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01069",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the keyboard visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00003",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the parrot visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01245",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00227",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00227",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02105",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00079",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frogs visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00079",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crickets visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01807",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02144",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00186",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rooster visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00186",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00544",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ocean waves visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00544",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00454",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the glass of water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01744",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01744",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the insects visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02083",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00452",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the band visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00161",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00161",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cow visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01183",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01183",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the None visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01845",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ducks visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01845",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01852",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01852",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00745",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the stove visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00745",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pot visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00745",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02108",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the chewing person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01940",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02165",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01470",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01408",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00600",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00198",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00198",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00810",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man on the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00810",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00810",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02180",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02180",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00493",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the racing car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00952",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the airplane visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00952",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00920",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00495",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the computer visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00495",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00302",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02272",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the phone visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02272",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02272",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00623",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the source of water visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02030",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the truck visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02030",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00669",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00669",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01597",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01597",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rock band visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00996",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01226",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01079",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toy pig visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01079",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00779",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the siren visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01825",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01277",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00224",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00884",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00316",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the guitar visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01556",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the mouse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01556",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01556",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the mouse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00667",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00667",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the two men visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00035",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the air spray visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00035",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02018",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02018",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01273",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00980",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00980",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00980",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00838",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01589",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01213",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01213",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorboat engine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01213",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00123",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00123",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01790",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fireworks visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01790",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01414",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01414",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the thunder visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01988",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01737",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01737",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the emergency sirens visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01370",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01164",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the guitar visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00553",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02158",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fireworks visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02158",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01620",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01758",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the music source visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01907",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01907",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00849",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pencil visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00849",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01281",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the door visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00089",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle horns visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00089",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the truck engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00089",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02190",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02190",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the camera visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00054",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the turkeys visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01269",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the keyboard visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00698",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sprayer visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00698",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01372",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the scissors visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01372",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01767",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the thunder visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "01767",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00797",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the faucet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01377",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pigeons visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00580",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "00436",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "No"
+  },
+  {
+    "video_id": "02024",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the truck visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00530",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00530",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01430",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the knife visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01430",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wood visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01430",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01928",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bottle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00543",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02006",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the husky visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01416",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00559",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man in white short-sleeves visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02156",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02286",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00871",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the oil spray visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01802",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01576",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the tiger visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00245",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the game character visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00465",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00370",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00370",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02204",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the keyboard visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02204",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01215",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00037",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01104",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the food and oil visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01104",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01104",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02106",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02106",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00696",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pigeon visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02050",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the stick striking visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02050",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00564",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pot visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00564",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pepper shaker visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00950",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00950",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pigeons visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00950",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the whistling person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00814",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the boat engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00814",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01219",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01219",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00524",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the insect visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00524",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02062",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the board visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02062",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01716",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sprinklers visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01716",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01696",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02318",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00703",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00703",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frogs visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00703",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00461",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00461",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00098",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00340",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01484",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00749",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00749",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00983",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire truck visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00983",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the emergency vehicle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02264",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the child visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01248",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00121",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01013",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00024",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01548",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the phone visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01548",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the character visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01956",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the women visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00575",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the microwave door visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00575",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the microwave visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00575",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00783",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the baby visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00783",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00177",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sink visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00177",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01986",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crow visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01064",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gun visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00679",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01092",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01092",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01760",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00407",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toy helicopter visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00692",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the video game visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00808",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cutting board visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01946",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sheep visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01394",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the tigers visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00259",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00299",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01902",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01902",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the boat visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01902",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00611",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01537",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00656",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the turbin visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00656",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the helicopter visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00556",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toy helicopter visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02040",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the spray visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01732",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the liquid visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01554",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the zipper visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00740",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00726",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00958",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fighting flight visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00187",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sheep visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01146",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01146",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the leaves visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01862",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sheep visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00603",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the boat engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00603",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00730",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00730",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the kid visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00955",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00955",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wind turbine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01804",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the glass visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00654",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motor boat visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00055",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01404",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the skateboard visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01788",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00013",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00033",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gun visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00281",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00967",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic bag visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00425",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00896",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00896",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00978",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00978",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00540",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pigeons visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00519",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01666",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00039",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the steam engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00039",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00039",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00135",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the remote control visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01161",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cat visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00638",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the crowd visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01340",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cow visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02126",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00329",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00329",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00075",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the insects visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00075",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00401",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00483",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00483",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01508",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the mower visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02134",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cars visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00012",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ship engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00287",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drill visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00852",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man with beard visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00852",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the children visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00246",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the birds visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00246",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01950",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00153",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00153",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the wooden box visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00279",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sheep visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00029",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic wrapping visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00397",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the muffled engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00397",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicles visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00751",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the aircraft engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00362",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drone visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02246",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00244",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the vehicle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01446",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01446",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00437",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the frying pan visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00437",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02276",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02276",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00387",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the power tool visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00387",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the electric sanding machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00387",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00317",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drill visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00560",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the truck engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00560",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00010",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00786",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car door visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01304",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01794",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01061",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00030",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00030",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00051",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car air bag visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00110",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01388",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01011",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the chicken visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01011",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02306",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01526",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the package visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01526",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01490",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the arrows visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00856",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02026",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the geese visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01628",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01692",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01320",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the instrument visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01320",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01864",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pan visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01420",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01678",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the cheetah visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01150",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the stencil visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01150",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sponge visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00208",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the guitar visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00208",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01101",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the young girls visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01898",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the mixer visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01912",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01912",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the children visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00688",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the door visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00688",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drill visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00688",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00557",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bell visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01786",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the drum visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01132",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the train visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00532",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01708",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the buffalo visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01610",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ball visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01582",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the car visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01586",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the choir visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00014",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00771",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the rain visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00771",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01994",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the coin visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02004",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00503",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01932",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01932",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00499",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01314",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01314",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02150",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the balloon visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00646",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00077",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00350",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the motorcycle engine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00350",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00309",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pot visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00309",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00052",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00052",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the microphone visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01904",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the blue bottle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00887",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the goat visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00319",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the ocean waves visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00319",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water streaming visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00828",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the plastic bag visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00828",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01438",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the zipper visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00615",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the children visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00615",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toy train visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00607",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00719",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the infants visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00719",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00201",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00201",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00831",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the fire visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02200",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bicycle visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02200",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02092",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00165",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the goat visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01062",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00087",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00833",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dishes visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01961",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01332",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01119",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00479",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00854",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the sewing machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01185",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the clock visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01662",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01662",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00987",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the river stream visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00987",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the young boy visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01584",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the talking girl visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01684",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the owl visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01996",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00805",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bird visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01410",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00505",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00505",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the faucet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01502",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01251",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01251",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00497",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02260",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the men visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02260",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the audience visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01622",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the bees visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01622",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00389",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the grass visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00060",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the pirate ship visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00060",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00060",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the explosion source visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02122",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00016",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00368",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00687",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the children visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00892",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toilet visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00892",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people talking visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01698",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the machine visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01560",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01560",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00182",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the water visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00182",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the woman visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01354",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the toy visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00439",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the horse visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00439",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the people visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01510",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the choir visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00325",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the metal objects visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00325",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01084",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dog visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00273",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the person visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01032",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00066",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the coo clock visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02074",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the gun visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "02074",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "01882",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the dogs visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00229",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00229",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  },
+  {
+    "video_id": "00083",
+    "task": "Audio-driven Video Hallucination",
+    "text": "Is the man visible in the video?",
+    "label": "Yes"
+  }
+]
