@@ -108,6 +108,7 @@ def run_inference(args):
                 tokenizer=tokenizer,
                 modal='video',
                 do_sample=False,  
+                generate_long=True,
                 use_AVCD=args.use_AVCD
             )
 
