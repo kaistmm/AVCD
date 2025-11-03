@@ -109,6 +109,7 @@ def run_inference(args):
                 modal='video',
                 do_sample=False,  
                 generate_long=True,
+                cd_alpha=2.5,
                 use_AVCD=args.use_AVCD
             )
 

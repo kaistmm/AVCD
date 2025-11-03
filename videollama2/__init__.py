@@ -32,7 +32,7 @@ def model_init(model_path=None, **kwargs):
     return model, processor, tokenizer
 
 
-def mm_infer(image_or_video, instruct, model, tokenizer, modal='video', generate_long=False,use_AVCD=False, **kwargs):
+def mm_infer(image_or_video, instruct, model, tokenizer, modal='video', generate_long=False,use_AVCD=False,cd_alpha=0.5, **kwargs):
     """inference api of VideoLLaMA2 for video understanding.
 
     Args:
@@ -220,7 +220,7 @@ def mm_infer(image_or_video, instruct, model, tokenizer, modal='video', generate
                         )
                         outputs3_logit = outputs3.logits[:, -1, :]
 
-                        alpha = 0.5
+                        alpha = float(cd_alpha)
 
                         #This is AVCD formula
                         contrastive_logits = (2+2*alpha)*orig_logits-2*alpha*outputs1_logit+outputs2_logit+outputs3_logit
